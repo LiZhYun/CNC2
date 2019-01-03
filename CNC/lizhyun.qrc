@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/bulb.png</file>
+    <file>images/edit-square.png</file>
+    <file>images/export.png</file>
+    <file>images/file-add.png</file>
+    <file>images/setting.png</file>
+  </qresource>
+</RCC>

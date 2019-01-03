@@ -1,0 +1,11 @@
+O0004;
+N10 G01 X%s;
+N20 Z0;
+N30 G2 X%s Z%s CR%s;
+N40 G1 Z%s;
+N50 X%s Z%s;
+N60 G2 X%s Z%s CR%s;
+N70 G1 Z%s;
+N80 X%s Z%s;
+N90 REF;
+
